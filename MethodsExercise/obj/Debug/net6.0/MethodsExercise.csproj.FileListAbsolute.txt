@@ -1,0 +1,15 @@
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.AssemblyReference.cache
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.exe
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.deps.json
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.runtimeconfig.json
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.dll
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.pdb
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.dll
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise.dll
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
+C:\Users\ianbs\OneDrive\Desktop\Repos\MethodsExercise\MethodsExercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
